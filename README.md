@@ -23,3 +23,7 @@ This code is made available under an Apache 2 license.  However, I would greatly
 I am including 3 free fonts with this project: Consolas.ttf, DroidSans.ttf, DroidSansMono.ttf.  DroidSans is provided by Google under Apache 2.
 
 OsakaMono.ttf if provided by default on Mac OSX.  If you're not using Mac OSX, please be aware that you may not have a license to use OsakaMono.  A quick find and replace on the source code to use Consolas or another monospace font should protect you legally.
+
+# SVG Licenses
+
+The included SVGs are CC BY 3.0 Freepik, obtained from flaticon.com
